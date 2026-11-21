@@ -124,8 +124,6 @@
 			{
 				"name": "Landing To Bronze",
 				"type": "DatabricksNotebook",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "Source To Landing Ingestion",
