@@ -160,6 +160,10 @@
 			"adf_run_id": {
 				"type": "string",
 				"defaultValue": "a3"
+			},
+			"table_id": {
+				"type": "string",
+				"defaultValue": "15"
 			}
 		},
 		"variables": {
