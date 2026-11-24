@@ -375,6 +375,10 @@
 			"adf_run_id": {
 				"type": "string",
 				"defaultValue": "a4"
+			},
+			"table_id": {
+				"type": "string",
+				"defaultValue": "15"
 			}
 		},
 		"variables": {
