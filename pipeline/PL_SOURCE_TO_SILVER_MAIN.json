@@ -159,11 +159,11 @@
 			},
 			"adf_run_id": {
 				"type": "string",
-				"defaultValue": "a30"
+				"defaultValue": "a33"
 			},
 			"table_id": {
 				"type": "string",
-				"defaultValue": "30"
+				"defaultValue": "33"
 			}
 		},
 		"variables": {
